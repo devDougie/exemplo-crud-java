@@ -1,9 +1,9 @@
-<!--- ![Image](https://github.com/user-attachments/assets/4bdbd8ea-83c6-4300-a2e2-a810ddaac8ff) --->
+<!--- ![Image](https://github.com/user-attachments/assets/aa2958d5-10ac-421f-9530-5648011ef1f7) --->
 
 # 📦 Sistema de Gerenciamento de Produtos
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4bdbd8ea-83c6-4300-a2e2-a810ddaac8ff">
+  <img src="https://github.com/user-attachments/assets/aa2958d5-10ac-421f-9530-5648011ef1f7">
 </div>
 
 ## 🚀 Sobre o Projeto
